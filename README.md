@@ -23,3 +23,12 @@ The text (any number of words with only lower case letters, separated by spaces 
 '?': print the number of occurences of the given word on the screen,
 '-': remove the information about the given word from the hash table
 'q': exit.
+
+BST Commands:
+
+'+': add a new element with a given key to the tree,
+'+': remove an element with a given key from the tree (ignore this operation if there is no such an element in the tree),
+'?': search the tree for an element with a given key, write '1' if the element was found, or '0' if not,
+'m': write the key of the minimum element in the tree,
+'M': write the key of the maximum element in the tree,
+'q': quit the program.
